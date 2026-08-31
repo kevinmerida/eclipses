@@ -4,6 +4,8 @@
 
 Le site [**timeanddate**](https://www.timeanddate.com/) donne accès à de nombreuses informations, dont celles associées aux éclipses de Soleil. Dans la suite de l'exposé, l'idée est de retrouver un moyen de prédire la trajectoire de l'ombre lors d'une éclipse, avec les données disponibles sur ce site. Cette prédiction fait appel aux [éléments besseliens](https://fr.wikipedia.org/wiki/%C3%89l%C3%A9ments_besseliens).
 
+Pour chaque éclipse, le site **timeanddate** propose une vidéo montrant la trajectoire de l'ombre sur une [projection cylindrique équidistante](https://fr.wikipedia.org/wiki/Projection_cylindrique_%C3%A9quidistante).
+
 ## Eclipse du 11 août 1999
 
 
