@@ -10,7 +10,11 @@
 
 https://github.com/user-attachments/assets/a962ef95-5c77-4093-8e62-c11a350d4df1
 
-https://github.com/user-attachments/assets/1b1bf299-4f13-4fdb-9eb7-055e716b934f
+
+
+https://github.com/user-attachments/assets/484b81fc-56e7-409e-a079-67293fb03be5
+
+
 
 [timeanddate](https://www.timeanddate.com/eclipse/solar/1999-august-11)
 
