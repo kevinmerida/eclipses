@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Le site [**timeanddate**](https://www.timeanddate.com/) donne accès à de nombreuses informations, dont celles associées aux éclipses de Soleil. Dans la suite de l'exposé, l'idée est de retrouver un moyen de prédire la trajectoire de l'ombre lors d'une éclipse, avec les données disponibles sur ce site. Cette prédiction fait appel aux [éléments besseliens](https://fr.wikipedia.org/wiki/%C3%89l%C3%A9ments_besseliens).
+Le site [**timeanddate**](https://www.timeanddate.com/) donne accès à de nombreuses informations, dont celles associées aux éclipses de Soleil. Dans la suite de l'exposé, l'idée est d'exploiter les données disponibles sur ce site afin de restituer une séquence illustrant un moyen de prédire la trajectoire de l'ombre lors d'une éclipse. Cette prédiction fait appel aux [éléments besseliens](https://fr.wikipedia.org/wiki/%C3%89l%C3%A9ments_besseliens).
 
 Pour chaque éclipse, le site **timeanddate** propose une vidéo montrant la trajectoire de l'ombre sur une carte en [projection cylindrique équidistante](https://fr.wikipedia.org/wiki/Projection_cylindrique_%C3%A9quidistante). Cette carte est le résultat d'une prédiction dont on a du mal à saisir les étapes, la forme complexe des différentes zones (ombre totale ou partielle) ne pouvant pas aboutir à une explication simple. Avec la conversion de cette carte en une [projection orthographique](https://fr.wikipedia.org/wiki/Projection_orthographique) centrée sur le point où le Soleil est à la verticale du lieu, on restitue une vue où la forme de l'ombre (ciculaire) et son déplacement (linéaire) est bien plus explicite.
 
