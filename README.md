@@ -10,6 +10,11 @@ Pour chaque éclipse, le site **timeanddate** propose une vidéo montrant la tra
 
 Le programme en Python [**eclipse.py**](eclipse.py) réalise la conversion de la vidéo visualisant la trajectoire de l'ombre en projection cylindrique équidistante en une vidéo en projection orthographique.
 
+```python
+from eclipse import eclipse_orth
+eclipse_orth(vid_ent="anim-19990811.mp4", vid_sor="eclipse_19990811.mp4", lambda0=55+49/60-25, phi0=15+21/60, sig_theta=1, T=500
+```
+
 ## Eclipse du 11 août 1999
 
 [**Day and Night World Map**](https://www.timeanddate.com/worldclock/sunearth.html?iso=19990811T0822)
