@@ -6,6 +6,10 @@ Le site [**timeanddate**](https://www.timeanddate.com/) donne accès à de nombr
 
 Pour chaque éclipse, le site **timeanddate** propose une vidéo montrant la trajectoire de l'ombre sur une carte en [projection cylindrique équidistante](https://fr.wikipedia.org/wiki/Projection_cylindrique_%C3%A9quidistante). Cette carte est le résultat d'une prédiction dont on a du mal à saisir les étapes, la forme complexe des différentes zones (ombre totale ou partielle) ne pouvant pas aboutir à une explication simple. Avec la conversion de cette carte en une [projection orthographique](https://fr.wikipedia.org/wiki/Projection_orthographique) centrée sur le point où, à chaque instant, le Soleil est à la verticale du lieu, on restitue une vue où la forme de l'ombre (circulaire) et son déplacement (linéaire) est bien plus explicite.
 
+## Les programmes
+
+[eclipse.py](eclipse.py)
+
 ## Eclipse du 11 août 1999
 
 
