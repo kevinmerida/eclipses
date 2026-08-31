@@ -2,7 +2,9 @@
 
 ## Introduction
 
-[**timeanddate**](https://www.timeanddate.com/)
+Le site [**timeanddate**](https://www.timeanddate.com/) donne accès à de nombreuses informations, dont celles associées aux éclipses de Soleil.
+
+[éléments besseliens](https://fr.wikipedia.org/wiki/%C3%89l%C3%A9ments_besseliens)
 
 ## Eclipse du 11 août 1999
 
