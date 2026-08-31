@@ -14,6 +14,8 @@ Cette vidéo initiale peut être téléchargée à partir de [la page décrivant
 
 Il faut par ailleurs disposer de la latitude (**phi0**) et la longitude (**lambda0**) du point subsolaire à l'heure UTC où débute la séquence, disponibles sur [**Day and Night World Map**](https://www.timeanddate.com/worldclock/sunearth.html?iso=19990811T0822). Une correction sur la longitude est éventuellement nécessaire, si la carte initiale n'est pas centrée sur le méridien 0. La carte finale est de dimension **T**X**T** pixels.
 
+Enfin, l'inclinaison apparente de l'axe de rotation de la Terre est vers la gauche du 21 juin au 21 décembre (**sig_theta=1**) et vers la droite du 21 décembre au 21 juin (**sig_theta=-1**).
+
 ```python
 from eclipse import eclipse_orth
 eclipse_orth(vid_ent="anim-19990811.mp4", vid_sor="eclipse_19990811.mp4", lambda0=55+49/60-25, phi0=15+21/60, sig_theta=1, T=500
