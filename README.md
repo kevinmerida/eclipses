@@ -12,7 +12,7 @@ Le programme en Python [**eclipse.py**](eclipse.py) réalise la conversion de la
 
 Cette vidéo initiale peut être téléchargée à partir de [la page décrivant l'éclipse sur le site timeanddate (Eclipse Shadow Path)](https://www.timeanddate.com/eclipse/solar/1999-august-11), par exemple celle du **11 août 1999**.
 
-Il faut par ailleurs disposer de la latitude (**phi0**) et la longitude (**lambda0**) du point subsolaire à l'heure UTC où débute la séquence, disponibles sur [**Day and Night World Map**](https://www.timeanddate.com/worldclock/sunearth.html?iso=19990811T0822). Une correction sur la longitude est éventuellement nécessaire, si la carte n'est pas centrée sur le méridien 0.
+Il faut par ailleurs disposer de la latitude (**phi0**) et la longitude (**lambda0**) du point subsolaire à l'heure UTC où débute la séquence, disponibles sur [**Day and Night World Map**](https://www.timeanddate.com/worldclock/sunearth.html?iso=19990811T0822). Une correction sur la longitude est éventuellement nécessaire, si la carte initiale n'est pas centrée sur le méridien 0. La carte finale est de dimension **T**X**T** pixels.
 
 ```python
 from eclipse import eclipse_orth
