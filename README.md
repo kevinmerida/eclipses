@@ -12,7 +12,7 @@ Pour chaque éclipse, le site **timeanddate** propose une vidéo montrant la tra
 
 ## Eclipse du 11 août 1999
 
-
+[**Day and Night World Map**](https://www.timeanddate.com/worldclock/sunearth.html?iso=19990811T0822)
 
 https://github.com/user-attachments/assets/a962ef95-5c77-4093-8e62-c11a350d4df1
 
