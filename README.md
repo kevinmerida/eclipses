@@ -26,5 +26,32 @@ https://github.com/user-attachments/assets/50bbcf77-98ef-428d-93ca-bf4127535b39
 
 [video](https://c.tadst.com/gfx/eclipses2/19990811/anim2d-380.mp4)
 
+## Eclipse du 21 août 2017
+
+
+
+https://github.com/user-attachments/assets/6fd30ac8-03d2-41a0-b124-0470af455456
+
+
+
+https://github.com/user-attachments/assets/08e1f0a7-87a4-450e-8ca0-1f5ef9db4d79
+
+
+
+
+## Eclipse du 12 août 2026
+
+
+
+https://github.com/user-attachments/assets/6e2b2dd2-5b14-430c-9f72-616f98d0dca8
+
+
+
+https://github.com/user-attachments/assets/c7bda5ef-061e-49a4-8544-33b5233b9d75
+
+
+
+
+
 
 
