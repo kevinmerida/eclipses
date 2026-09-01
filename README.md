@@ -18,12 +18,14 @@ On suppose ensuite que la latitude du point subsolaire reste identique au cours 
 
 Avec l'exemple de l'éclipse du 11 août 1999, choisi pour décrire le mode d'emploi, le programme [eclipse_19990811.py](eclipse_19990811.py) lance directement la fonction de conversion, avec les paramètres requis. 
 
-Il faut juste avoir préalablement téléchargé la vidéo initiale et l'avoir renommé **anim-19990811.mp4** (par commodité pour s'y retrouver après d'autres téléchargements).
-
 ```python
 from eclipse import eclipse_orth
 eclipse_orth(vid_ent="anim-19990811.mp4", vid_sor="eclipse_19990811.mp4", lambda0=55+49/60-25, phi0=15+21/60, sig_theta=1, T=500
 ```
+
+Il faut juste avoir préalablement téléchargé la vidéo initiale et l'avoir renommé **anim-19990811.mp4** (par commodité pour s'y retrouver après d'autres téléchargements).
+
+
 ## Les illustrations
 
 ### Commentaires
