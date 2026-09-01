@@ -34,7 +34,7 @@ Les éclipses du **11 août 1999** et du **21 août 2017** appartiennent à la m
 
 Les éclipses du **1er août 2008** et du **12 août 2026** appartiennent à la même [**série de saros 126**](https://en.wikipedia.org/wiki/Solar_Saros_126). On constatera ainsi que les trajectoires pour ces deux éclipses sont similaires sur la sphère, si on fait abstraction des continents traversés. Celle de 2026 passe cependant un peu "au dessus" de celle de 2008. Elles "descendent" par ailleurs au cours du temps, ce qui confirme que la Lune était à proximité du noeud descendant de son orbite. 
 
-### Eclipse du **11 août 1999**
+### Eclipse du 11 août 1999
 
 Le programme : [eclipse_19990811.py](eclipse_19990811.py)
 
@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/a962ef95-5c77-4093-8e62-c11a350d4df1
 
 https://github.com/user-attachments/assets/50bbcf77-98ef-428d-93ca-bf4127535b39
 
-### Eclipse du **21 août 2017**
+### Eclipse du 21 août 2017
 
 Le programme : [eclipse_20170821.py](eclipse_20170821.py)
 
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/6fd30ac8-03d2-41a0-b124-0470af455456
 
 https://github.com/user-attachments/assets/08e1f0a7-87a4-450e-8ca0-1f5ef9db4d79
 
-### Eclipse du **1er août 2008**
+### Eclipse du 1er août 2008
 
 Le programme : [eclipse_20080801.py](eclipse_20080801.py)
 
@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/1df7c5ee-b333-4f40-9ec5-828de2fb8866
 
 https://github.com/user-attachments/assets/aaefec92-ffda-4ed8-99b3-230b5f602f89
 
-### Eclipse du **12 août 2026**
+### Eclipse du 12 août 2026
 
 Le programme : [eclipse_20260812.py](eclipse_20260812.py)
 
