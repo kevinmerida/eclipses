@@ -16,7 +16,7 @@ Il faut par ailleurs disposer de la longitude (**lambda0**) et de la latitude (*
 
 On suppose ensuite que la latitude du point subsolaire reste identique au cours du temps, et que sa longitude varie d'est en ouest de 15 degrés par heure. Enfin, l'inclinaison apparente de l'axe de rotation de la Terre est vers la gauche du 21 juin au 21 décembre (**sig_theta=1**) et vers la droite du 21 décembre au 21 juin (**sig_theta=-1**). La carte finale est de dimension **T**X**T** pixels.
 
-Avec l'exemple de l'éclipse du 11 août 1999, choisi pour décrire le mode d'emploi, le programme [eclipse_19990811.py](eclipse_19990811.py) lance directement la fonction de conversion, avec les paramètres requis.
+Avec l'exemple de l'éclipse du 11 août 1999, choisi pour décrire le mode d'emploi, le programme [eclipse_19990811.py](eclipse_19990811.py) lance directement la fonction de conversion, avec les paramètres requis. Il faut juste avoir préalablement téléchargé la vidéo initiale et l'avoir renommé **anim-19990811.mp4**.
 
 ```python
 from eclipse import eclipse_orth
