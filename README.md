@@ -26,9 +26,9 @@ eclipse_orth(vid_ent="anim-19990811.mp4", vid_sor="eclipse_19990811.mp4", lambda
 
 ### Commentaires
 
-Les éclipses du 11 août 1999 et du 21 août 2017 appartiennent à la même [série de saros 145](https://fr.wikipedia.org/wiki/Saros_solaire_145).
+Les éclipses du 11 août 1999 et du 21 août 2017 appartiennent à la même [série de saros 145](https://fr.wikipedia.org/wiki/Saros_solaire_145). On constatera que les trajectoires pour ces deux éclipses sont similaires sur la sphère, si on fait abstraction des continents traversés. Celle de 2017 passe cependant un peu "au dessous" de celle de 1999. Elles "montent" par ailleurs au cours du temps, ce qui confirme que la Lune était à proximité du noeud ascendant de son orbite. 
 
-Les éclipses du 1er août 2008 et du 12 août 2026 appartiennent à la même [série de saros 126](https://en.wikipedia.org/wiki/Solar_Saros_126).
+Les éclipses du 1er août 2008 et du 12 août 2026 appartiennent à la même [série de saros 126](https://en.wikipedia.org/wiki/Solar_Saros_126). On constatera que les trajectoires pour ces deux éclipses sont similaires sur la sphère, si on fait abstraction des continents traversés. Celle de 2026 passe cependant un peu "au dessus" de celle de 2008. Elles "descendent" par ailleurs au cours du temps, ce qui confirme que la Lune était à proximité du noeud descendant de son orbite. 
 
 ### Eclipse du 11 août 1999
 
