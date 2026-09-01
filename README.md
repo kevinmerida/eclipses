@@ -24,6 +24,12 @@ eclipse_orth(vid_ent="anim-19990811.mp4", vid_sor="eclipse_19990811.mp4", lambda
 ```
 ## Les illustrations
 
+### Commentaires
+
+Les éclipses du 11 août 1999 et du 21 août 2017 appartiennent à la même [série de saros 145](https://fr.wikipedia.org/wiki/Saros_solaire_145).
+
+Les éclipses du 1er août 2008 et du 12 août 2026 appartiennent à la même [série de saros 126](https://en.wikipedia.org/wiki/Solar_Saros_126).
+
 ### Eclipse du 11 août 1999
 
 Le programme : [eclipse_19990811.py](eclipse_19990811.py)
