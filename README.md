@@ -23,7 +23,7 @@ from eclipse import eclipse_orth
 eclipse_orth(vid_ent="anim-19990811.mp4", vid_sor="eclipse_19990811.mp4", lambda0=55+49/60-25, phi0=15+21/60, sig_theta=1, T=500
 ```
 
-Il faut juste avoir préalablement téléchargé la vidéo initiale et l'avoir renommé **anim-19990811.mp4** (par commodité pour s'y retrouver après d'autres téléchargements).
+Il faut juste avoir préalablement téléchargé la vidéo initiale et l'avoir renommée **anim-19990811.mp4** (par commodité pour s'y retrouver après d'autres téléchargements).
 
 
 ## Les illustrations
