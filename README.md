@@ -12,7 +12,7 @@ Le programme en Python [**eclipse.py**](eclipse.py) réalise la conversion de la
 
 Cette vidéo initiale peut être téléchargée à partir de [la page décrivant l'éclipse sur le site timeanddate (Eclipse Shadow Path)](https://www.timeanddate.com/eclipse/solar/1999-august-11), par exemple celle du **11 août 1999**.
 
-Il faut par ailleurs disposer de la latitude (**phi0**) et la longitude (**lambda0**) du point subsolaire à l'heure UTC où débute la séquence. Elles sont disponibles sur [**Day and Night World Map**](https://www.timeanddate.com/worldclock/sunearth.html?iso=19990811T0822). Une correction sur la longitude est éventuellement nécessaire, si la carte initiale n'est pas centrée sur le méridien 0.
+Il faut par ailleurs disposer de la longitude (**lambda0**) et de la latitude (**phi0**) du point subsolaire à l'heure UTC où débute la séquence. Elles sont disponibles sur [**Day and Night World Map**](https://www.timeanddate.com/worldclock/sunearth.html?iso=19990811T0822). Une correction sur la longitude est éventuellement nécessaire, si la carte initiale n'est pas centrée sur le méridien 0.
 
 On suppose ensuite que la latitude du point subsolaire reste identique au cours du temps, et que sa longitude varie d'est en ouest de 15 degrés par heure. Enfin, l'inclinaison apparente de l'axe de rotation de la Terre est vers la gauche du 21 juin au 21 décembre (**sig_theta=1**) et vers la droite du 21 décembre au 21 juin (**sig_theta=-1**). La carte finale est de dimension **T**X**T** pixels.
 
