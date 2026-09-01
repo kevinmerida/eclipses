@@ -8,7 +8,7 @@ Pour chaque éclipse, le site **timeanddate** propose une vidéo montrant la tra
 
 ## Les programmes
 
-Le programme en Python [**eclipse.py**](eclipse.py) réalise la conversion de la vidéo initiale (**vid_ent**) visualisant la trajectoire de l'ombre en projection cylindrique équidistante en une vidéo (**vid_sor**) en projection orthographique.
+Le programme en Python [**eclipse.py**](eclipse.py) contient la fonction de conversion de la vidéo initiale (**vid_ent**) visualisant la trajectoire de l'ombre en projection cylindrique équidistante en une vidéo (**vid_sor**) en projection orthographique.
 
 Cette vidéo initiale peut être téléchargée à partir de [la page décrivant l'éclipse sur le site timeanddate (Eclipse Shadow Path)](https://www.timeanddate.com/eclipse/solar/1999-august-11), par exemple celle du **11 août 1999**.
 
