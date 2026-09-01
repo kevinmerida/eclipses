@@ -14,7 +14,7 @@ Cette vidéo initiale peut être téléchargée à partir de [la page décrivant
 
 Il faut par ailleurs disposer de la latitude (**phi0**) et la longitude (**lambda0**) du point subsolaire à l'heure UTC où débute la séquence. Elles sont disponibles sur [**Day and Night World Map**](https://www.timeanddate.com/worldclock/sunearth.html?iso=19990811T0822). Une correction sur la longitude est éventuellement nécessaire, si la carte initiale n'est pas centrée sur le méridien 0. La carte finale est de dimension **T**X**T** pixels.
 
-Enfin, l'inclinaison apparente de l'axe de rotation de la Terre est vers la gauche du 21 juin au 21 décembre (**sig_theta=1**) et vers la droite du 21 décembre au 21 juin (**sig_theta=-1**).
+On suppose ensuite que la latitude du point subsolaire reste identique au cours du temps, et que sa longitude varie d'est en ouest de 15 degrés par heure. Enfin, l'inclinaison apparente de l'axe de rotation de la Terre est vers la gauche du 21 juin au 21 décembre (**sig_theta=1**) et vers la droite du 21 décembre au 21 juin (**sig_theta=-1**).
 
 Avec l'exemple de l'éclipse du 11 août 1999, choisi pour décrire le mode d'emploi, le programme [eclipse_19990811.py](eclipse_19990811.py) lance directement la fonction de conversion, avec les paramètres requis.
 
