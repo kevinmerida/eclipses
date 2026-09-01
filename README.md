@@ -25,15 +25,15 @@ eclipse_orth(vid_ent="anim-19990811.mp4", vid_sor="eclipse_19990811.mp4", lambda
 
 ## Eclipse du 11 août 1999
 
+Le programme : [eclipse_19990811.py](eclipse_19990811.py)
+
 https://github.com/user-attachments/assets/a962ef95-5c77-4093-8e62-c11a350d4df1
 
 https://github.com/user-attachments/assets/50bbcf77-98ef-428d-93ca-bf4127535b39
 
-[timeanddate](https://www.timeanddate.com/eclipse/solar/1999-august-11)
-
-[video](https://c.tadst.com/gfx/eclipses2/19990811/anim2d-380.mp4)
-
 ## Eclipse du 21 août 2017
+
+Le programme : [eclipse_20170821.py](eclipse_20170821.py)
 
 https://github.com/user-attachments/assets/6fd30ac8-03d2-41a0-b124-0470af455456
 
@@ -41,20 +41,17 @@ https://github.com/user-attachments/assets/08e1f0a7-87a4-450e-8ca0-1f5ef9db4d79
 
 ## Eclipse du 1er août 2008
 
+Le programme : [eclipse_20080801.py](eclipse_20080801.py)
+
 https://github.com/user-attachments/assets/1df7c5ee-b333-4f40-9ec5-828de2fb8866
 
 https://github.com/user-attachments/assets/aaefec92-ffda-4ed8-99b3-230b5f602f89
 
-
 ## Eclipse du 12 août 2026
+
+Le programme : [eclipse_20260812.py](eclipse_20260812.py)
 
 https://github.com/user-attachments/assets/6e2b2dd2-5b14-430c-9f72-616f98d0dca8
 
 https://github.com/user-attachments/assets/c7bda5ef-061e-49a4-8544-33b5233b9d75
-
-
-
-
-
-
 
