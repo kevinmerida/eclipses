@@ -29,6 +29,8 @@ Il faut juste avoir préalablement téléchargé la vidéo initiale et l'avoir r
 
 ## Angle d'inclinaison apparent de l'axe de rotation de la Terre
 
+$$\\operatorname{atan}{\\left(\\sqrt{- \\frac{\\sin^{2}{\\left(\\delta \\right)}}{\\sin^{2}{\\left(\\epsilon \\right)}} + 1} \\tan{\\left(\\epsilon \\right)} \\right)}$$
+
 ## Les illustrations
 
 ### Commentaires
