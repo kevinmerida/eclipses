@@ -37,11 +37,11 @@ Ainsi, avec
 * $\delta$ : latitude du point subsolaire
 * $\theta$ : inclinaison apparente de l'axe de rotation de la Terre
 
-on obtient du 21 juin au 21 décembre
+on obtient du 21 juin au 21 décembre : inclinaison vers la gauche avec
 
 $$\\theta = \\arctan{\\left(\\sqrt{- \\frac{\\sin^{2}{\\left(\\delta \\right)}}{\\sin^{2}{\\left(\\epsilon \\right)}} + 1} \\tan{\\left(\\epsilon \\right)} \\right)}$$
 
-on obtient du 21 décembre au 21 juin 
+on obtient du 21 décembre au 21 juin : inclinaison vers la droite avec
 
 $$\\theta = -\\arctan{\\left(\\sqrt{- \\frac{\\sin^{2}{\\left(\\delta \\right)}}{\\sin^{2}{\\left(\\epsilon \\right)}} + 1} \\tan{\\left(\\epsilon \\right)} \\right)}$$
 
