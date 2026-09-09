@@ -45,6 +45,8 @@ on obtient du 21 décembre au 21 juin : inclinaison vers la droite avec
 
 $$\\theta = -\\arctan{\\left(\\sqrt{- \\frac{\\sin^{2}{\\left(\\delta \\right)}}{\\sin^{2}{\\left(\\epsilon \\right)}} + 1} \\tan{\\left(\\epsilon \\right)} \\right)}$$
 
+Le fichier [geom.ipynb](geom.ipynb) détaille les calculs.
+
 ## Les illustrations
 
 ### Commentaires
