@@ -27,6 +27,7 @@ eclipse_orth(vid_ent="anim-19990811.mp4", vid_sor="eclipse_19990811.mp4", lambda
 
 Il faut juste avoir préalablement téléchargé la vidéo initiale et l'avoir renommée **anim-19990811.mp4** (par commodité pour s'y retrouver après d'autres téléchargements).
 
+## Angle d'inclinaison apparent de l'axe de rotation de la Terre
 
 ## Les illustrations
 
