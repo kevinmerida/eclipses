@@ -29,6 +29,9 @@ Il faut juste avoir préalablement téléchargé la vidéo initiale et l'avoir r
 
 ## Angle d'inclinaison apparent de l'axe de rotation de la Terre
 
+L'étape initiale du passage à la projection orthographique donne une vue où l'inclinaison apparente de l'axe de rotation de la Terre y apparaît nulle.
+Pour faire en sorte que l'axe horizontal sur la projection devienne le plan de l'écliptique
+
 $$\\theta = \\arctan{\\left(\\sqrt{- \\frac{\\sin^{2}{\\left(\\delta \\right)}}{\\sin^{2}{\\left(\\epsilon \\right)}} + 1} \\tan{\\left(\\epsilon \\right)} \\right)}$$
 
 ## Les illustrations
