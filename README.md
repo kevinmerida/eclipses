@@ -36,9 +36,12 @@ Ainsi, avec
 * $\epsilon$ : inclinaison de l'axe de rotation de la Terre
 * $\delta$ : latitude du point subsolaire
 * $\theta$ : inclinaison apparente de l'axe de rotation de la Terre
-on obient
+
+on obtient du 21 juin au 21 décembre
 
 $$\\theta = \\arctan{\\left(\\sqrt{- \\frac{\\sin^{2}{\\left(\\delta \\right)}}{\\sin^{2}{\\left(\\epsilon \\right)}} + 1} \\tan{\\left(\\epsilon \\right)} \\right)}$$
+
+on obtient du 21 décembre au 21 juin 
 
 $$\\theta = -\\arctan{\\left(\\sqrt{- \\frac{\\sin^{2}{\\left(\\delta \\right)}}{\\sin^{2}{\\left(\\epsilon \\right)}} + 1} \\tan{\\left(\\epsilon \\right)} \\right)}$$
 
