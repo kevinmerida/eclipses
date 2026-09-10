@@ -27,7 +27,7 @@ eclipse_orth(vid_ent="anim-19990811.mp4", vid_sor="eclipse_19990811.mp4", lambda
 
 Il faut juste avoir préalablement téléchargé la vidéo initiale et l'avoir renommée **anim-19990811.mp4** (par commodité pour s'y retrouver après d'autres téléchargements).
 
-## Angle de l'inclinaison apparent de l'axe de rotation de la Terre
+## Angle de l'inclinaison apparente de l'axe de rotation de la Terre
 
 L'étape initiale du passage à la projection orthographique donne une vue où l'inclinaison apparente de l'axe de rotation de la Terre y apparaît nulle.
 Pour faire en sorte que l'axe horizontal sur la projection finale devienne le plan de l'écliptique, il faut faire subir à la projection initiale une rotation d'angle $\\theta$ autour de son centre.
